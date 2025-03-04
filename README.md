@@ -35,7 +35,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
 ---
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/SelxMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/informasgher89745/SelxMusic)
 
 ---
 
@@ -60,7 +60,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/SelxMusic && cd SelxMusic
+   git clone https://github.com/informasgher89745/SelxMusic && cd SelxMusic
    ```
 6. **Install Requirements**
    ```bash
